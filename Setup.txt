@@ -7,6 +7,9 @@ https://www.jetbrains.com/pycharm/download/#section=windows
 5. Python anaconda from ( install for python 3.6 version )
 https://www.anaconda.com/download/
 
+# move to scripts directory of your anaconda installation
+
+6. conda install nb_conda
 ENV SETUP
 1. create anconda environment
 conda create --name ai-ml-dl python=3.6
