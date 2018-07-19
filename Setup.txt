@@ -1,0 +1,22 @@
+All installations are click through installations. Download and click through with default values
+1. Install python from https://www.python.org/downloads/  . Current python version is good. Any version higher than 3.4 is good
+2. Internet access
+3. Access to share files via usb or google drive (data files)
+4. pycharm community edition from 	
+https://www.jetbrains.com/pycharm/download/#section=windows
+5. Python anaconda from ( install for python 3.6 version )
+https://www.anaconda.com/download/
+
+ENV SETUP
+1. create anconda environment
+conda create --name ai-ml-dl python=3.6
+
+2. activate the environment
+activate ai-ml-dl
+
+3. conda install theanos
+4. conda install tensorflow
+5. conda install keras
+6. conda install pandas
+7. conda install matplotlib
+8. conda install scikit-learn
